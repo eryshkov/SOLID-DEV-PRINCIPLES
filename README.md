@@ -1,7 +1,7 @@
 #  SOLID PRINCIPLES OF OBJECT-ORIENTED DESIGN
 
 <div align = "center">
-<img src="/SOLID Principles.pdf" width="60%">            
+<img src="/SOLID Principles.png" width="60%">            
 </div>
 
 <p align="center">
